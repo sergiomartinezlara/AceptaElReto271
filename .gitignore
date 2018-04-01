@@ -20,6 +20,9 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 #ignore Netbeans directories
 build/
 dist/
+=======
+>>>>>>> c6914c02d7e7a272aec25d3046a6c7698cd96f35
